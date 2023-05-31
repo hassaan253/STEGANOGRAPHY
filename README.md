@@ -14,6 +14,7 @@ steganography can be divided into five types:
 3. Video Steganography
 4. Audio Steganography
 5. Network Steganography
+
 The purpose of this project is to implement text, image and audio steganography in MATLAB
 using the Random and Statistical Generation, Encrypt and Scatter and Least Significant Bit
 Encoding methods, respectively.
