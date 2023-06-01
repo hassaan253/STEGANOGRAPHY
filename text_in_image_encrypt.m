@@ -1,7 +1,7 @@
 function output = text_in_image_encrypt(message)
 
 % Read the input image
-input = imread('lena.png');
+input = imread('cover.png');
 
 % Convert image to grayscale
 input=rgb2gray(input);
