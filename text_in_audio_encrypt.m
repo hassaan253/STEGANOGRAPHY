@@ -1,7 +1,7 @@
 function  output = text_in_audio_encrypt(message)
 
 % Read the input audio
-AS=audioread('Coldplay - Ink.mp3');
+AS=audioread('encode.mp3');
 
 % Resize the image to required size
 input = AS(1:(44100*5));
